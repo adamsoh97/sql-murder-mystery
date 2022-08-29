@@ -5,4 +5,6 @@ Description: A crime has taken place and the detective needs your help. The dete
 
 Link: https://mystery.knightlab.com/
 
+The steps and the codes are listed in the pdf file.
+
 Have fun!
